@@ -6,7 +6,7 @@ const readline = require('readline');
 
 const proxyF = "proxy.txt";
 const uaLF = "ua.txt";
-const userAgents = "HanX.txt";
+const userAgents = "kefee.txt";
 
 const acceptHeader = [
     "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
